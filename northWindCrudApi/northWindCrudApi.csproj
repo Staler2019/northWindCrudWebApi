@@ -13,6 +13,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\northWindCrudApi.Business\northWindCrudApi.Business.csproj" />
+      <ProjectReference Include="..\northWindCrudApi.Data\northWindCrudApi.Data.csproj" />
     </ItemGroup>
 
 </Project>
