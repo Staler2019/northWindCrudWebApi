@@ -6,4 +6,8 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\northWindCrudApi.Data\northWindCrudApi.Data.csproj" />
+    </ItemGroup>
+
 </Project>
